@@ -61,7 +61,7 @@
 -->
 <para>
    其它主要的维护工作包括周期性的<quote>vacuuming</>(清理)数据库。
-   这个工作我们在<xref linkend="routine-vacuuming">里讨论。与此紧密相关的是更新规划器使用的统计信息，
+   这个工作我们在<xref linkend="routine-vacuuming">里讨论。与此紧密相关的是更新优化器使用的统计信息，
    这个在<xref linkend="vacuum-for-statistics">里讨论。
 </para>
 
